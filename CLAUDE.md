@@ -151,16 +151,15 @@ Het volgende komt nooit in de notulen, in geen enkele vorm, ook niet geparafrase
 - personele conflicten
 - functioneringskwesties
 - ziekteverzuim van individuen
-- bedragen die niet expliciet als besluit bevestigd zijn
 - alles wat in het transcript als vertrouwelijk klinkt
 
 Bij twijfel: weglaten en het aan David melden in de afsluitende ping. Twijfel is geen reden
 om iets alsnog op te nemen.
 
-> Let op: deze lijst staat op gespannen voet met de opdracht in sectie 1 en 2 van het format
-> om concrete bedragen op te nemen. De uitsluitingslijst wint zolang David niets anders
-> zegt: een bedrag dat niet als besluit bevestigd is, blijft eruit, ook als het in het
-> transcript staat. Meld zulke gevallen in de ping.
+Zakelijke bedragen (offertes, begrotingsposten, prijzen) mogen in de notulen zolang ze
+letterlijk in het transcript staan, ook als er nog geen definitief besluit over is. Vermeld
+dan de status ("offerte volgt", "nog niet definitief"). Verzonnen of geïnterpoleerde
+bedragen blijven verboden, en individuele salarissen vallen onder de lijst hierboven.
 
 ## Harde regels
 
